@@ -10,9 +10,3 @@ foreach my $i(@num)
 		}
 	print "\n";
 }
-
-
-# for i in range(1,10):
-	# for j range(1,10):
-		# print format(i*j,'3d'),
-	# print
